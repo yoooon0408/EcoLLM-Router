@@ -88,7 +88,7 @@ def _rule_based_label(prompt: str) -> int:
 # ── ML 모델 로드 (선택적) ─────────────────────────────────────────────────────
 
 _MODEL_PATH = (
-    Path(__file__).parents[3] / "classifier" / "artifacts" / "router_model.joblib"
+    Path(__file__).parents[2] / "classifier" / "artifacts" / "router_model.joblib"
 )
 
 _model = None

@@ -1,10 +1,100 @@
-What is the capital of France?
-Translate "good morning" into Spanish.
-Who wrote Hamlet?
-What does HTTP stand for?
-Summarize the plot of Romeo and Juliet in two sentences.
-Derive the closed-form solution for the time-optimal control of a double integrator system.
-Analyze the trade-offs between transformer-based and state-space models for long-context NLP tasks.
+What is the value of p in 24 = 2p?
+Find the shortest distance from the curve xy = 8 to the origin.
+Find the quotient of −40 ÷ (−8).
+A ladder 9 meters long leans against a vertical wall. The bottom moves away at 2 m/s. How fast is the top sliding down when the top is 3 meters above the ground?
+What is the boiling point of water at standard atmospheric pressure in Celsius?
 Prove that the square root of 2 is irrational using proof by contradiction.
-Design a scalable microservices architecture for a real-time recommendation engine handling 1M RPS.
-Compare the computational complexity of QuickSort and MergeSort and explain when each is preferred.
+How many years are in a decade?
+Use Fermat's Little Theorem to find the remainder of 3^47 when divided by 23.
+What does the word "Islam" mean in Arabic?
+Points A and B are chosen randomly on a segment of length 10, dividing it into three parts. What is the probability that the three parts can form the sides of a triangle?
+What is the supplement of a 40° angle?
+Analyze the time complexity of Dijkstra's algorithm and compare it with Bellman-Ford for sparse versus dense graphs.
+What is the chemical symbol for gold?
+Derive the backpropagation update rule for weights in a single fully-connected neural network layer.
+How many sides does a hexagon have?
+Prove that the Halting Problem is undecidable using a diagonalization argument.
+What is the square root of 144?
+Design a fault-tolerant distributed rate limiter that maintains consistency across multiple geographically distributed data centers.
+What is the capital of Japan?
+Find the degree of the field extension Q(sqrt(2), sqrt(3), sqrt(18)) over Q.
+Find the median of the data set: 23, 13, 18, 29, 32, 25.
+There are 25 suitcases, 5 of which are damaged. If 3 are selected at random, what is the probability that exactly 2 are damaged?
+What does the term "Qur'an" literally mean?
+Compute the product of f(x) = 4x − 5 and g(x) = 2x^2 − 4x + 2 in Z_8[x].
+What is the greatest common factor of 36 and 90?
+Explain how RSA encryption works and why the difficulty of factoring large integers underpins its security.
+Solve for x: (3/4)x = 24.
+Design a microservices architecture for a high-throughput event-driven system processing 100,000 events per second, and discuss consistency and fault-tolerance trade-offs.
+What is the atomic number of carbon?
+Prove the Cauchy-Schwarz inequality for real inner product spaces from first principles.
+What is the most important prayer in Judaism?
+If X is a discrete random variable where P(X = n) = 1/2^n for each positive integer n, and Y is an independent copy of X, what is the probability that at least one of X or Y exceeds 3?
+Find the quotient of 5.04 ÷ 0.7.
+Analyze the CAP theorem and explain its implications for designing a globally distributed key-value store.
+What is the least common multiple of 4 and 10?
+Find all zeros of the polynomial x^3 + 2x + 2 in the field Z_7.
+What does the term anatman mean in Buddhism?
+Derive the gradient of the cross-entropy loss with respect to the logits in a multi-class softmax classifier.
+Who wrote the play "Hamlet"?
+Water drips at 3 cm^3/min from the vertex of an inverted cone with height 2 cm and radius 1 cm. Find the rate of change of water height when the water level is 0.5 cm below the top.
+What is 4/7 + 2/7?
+Up to isomorphism, how many additive abelian groups of order 16 satisfy 4x = 0 for every element x?
+In what year did World War II end?
+Compare transformer self-attention with LSTM networks for sequence-to-sequence tasks involving very long dependencies.
+What does DNA stand for?
+Prove that the set of real numbers is uncountable using Cantor's diagonal argument.
+Find the value of 4 ÷ 2 × 2 + 8 − 4.
+Explain how a B-tree maintains balance during insertions and deletions, and state the time complexity for search and insertion.
+What does "Mahavira" mean in the Jaina tradition?
+Determine whether 8x^3 + 6x^2 − 9x + 24 in Z[x] is irreducible over Q using the Eisenstein criterion.
+What is the greatest common factor of 42 and 84?
+Find the maximum possible order of an element in S_10, the symmetric group on 10 objects.
+What does the Hebrew word mashiach mean?
+Describe how gradient descent behaves in a non-convex loss landscape and explain the significance of saddle points versus local minima.
+What is the measure in degrees of an angle that represents 1/360 of a full circle?
+Prove or disprove: every group of order p^2 where p is prime is abelian.
+Compute 22 ÷ 2 + 9.
+Design an algorithm to detect all cycles in a directed graph and analyze its time and space complexity.
+If 3 cans of pears cost $2.37, how many cans can you buy for $9.48?
+Find the order of the factor group (Z_11 × Z_15) / <(1, 1)>.
+What does the Tripitaka mean?
+Analyze why merge sort has better worst-case performance than quicksort, and describe scenarios where quicksort outperforms it.
+What is the approximate speed of light in a vacuum in meters per second?
+Find the maximum order of an element in the group Z_8 × Z_10 × Z_24.
+A soccer team has $90.00 to spend on soccer balls costing $15.60 each. What is the greatest number they can buy?
+Sofia and Tess each choose a random integer from 1 to 10 independently. What is the probability that neither number is the square of the other?
+What is zazen in the Japanese Zen tradition?
+If today is Wednesday, what day of the week will it be in 10^(10^10) days?
+Write 60/72 in simplest form.
+Find the volume of the solid formed by rotating the region between y = x and y = x^2 in the first quadrant about the y-axis.
+When was the current Dalai Lama born?
+How many nonisomorphic trees with exactly 5 vertices exist? Enumerate and justify.
+What is the communal meal offered at the Sikh place of worship called?
+Compare L1 and L2 regularization in machine learning in terms of sparsity and the geometric interpretation of their constraint regions.
+Find the product of 5 × (−9).
+How many structurally distinct abelian groups have order 72?
+What is the meaning of the Punjabi word "Sikh"?
+A university math department has 10 professors to assign to 20 courses, 2 courses per professor, one professor per course. How many total complete assignments are possible?
+Find the difference of 142.76 − 16.5.
+Explain the differences between the Paxos and Raft distributed consensus algorithms in terms of understandability and implementation complexity.
+Which is the largest Muslim country in the world by number of adherents?
+How many positive real numbers x satisfy the equation cos(97x) = x?
+Find the quotient of 2.16 ÷ 0.06.
+Find all saddle points of f(x, y) = x^3 + y^3 + 3xy.
+What does bhakti mean in Hindu traditions?
+Explain the trade-offs between optimistic locking and pessimistic locking in distributed databases under high contention workloads.
+Simplify (2 + 5)^2 − 42.
+Find the characteristic of the ring Z_3 × 3Z.
+What does the title "Dalai Lama" mean?
+Prove that the number of labeled spanning trees of the complete graph K_n equals n^(n−2) using Cayley's formula.
+What is the remainder when 21 is divided by 7?
+Derive the closed-form solution for the time-optimal control of a double integrator system subject to a bounded input constraint.
+Trish's resting heart rate is 50 bpm and increases 5 bpm for each minute of exercise. How many minutes until she reaches 120 bpm?
+Design a cache eviction policy for a workload with high temporal locality but unpredictable access patterns, and justify your design choices.
+What is 123 ÷ 8?
+Analyze the trade-offs of using a microkernel architecture versus a monolithic kernel for an operating system in safety-critical embedded systems.
+How many books are in the New Testament?
+Compare and contrast the computational complexity and practical performance of QuickSort and MergeSort, and explain when each algorithm should be preferred.
+Find the value of 8 + 8 ÷ 2 + 2.
+Explain the self-attention mechanism in transformer models and derive the scaled dot-product attention formula from first principles.
